@@ -53,12 +53,16 @@ body {
     font-size: 48px;
     font-weight: 700;
   }
-  h3 {
+  h2 {
     color:#D64168;
   }
-  .card-body {
-      border-bottom: none;
-  }
+ p {
+    color: #474545;
+ }
+.flex-container {
+  display: flex;
+  margin: 5% 5%;
+}
   .responsive {
 	width: 100%;
 	/*max-width: 1000px;*/
